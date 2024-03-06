@@ -10,4 +10,3 @@
 - 📫 How to reach me: twitter.com/jaifaim_eth
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am going to become a lawyer soon.
--->
