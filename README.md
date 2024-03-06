@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**vichne-zade/vichne-zade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on blockchain research, running nodes and validating networks.
 - 🌱 I’m currently learning ubuntu.
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am going to become a lawyer soon.
 -->
-###
